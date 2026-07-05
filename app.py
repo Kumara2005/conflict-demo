@@ -1,4 +1,4 @@
 def login():
-    print("Login Successful")
+    print("Secure Login")
     print("Welcome User")
 login()
